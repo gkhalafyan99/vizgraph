@@ -28,6 +28,6 @@ The following datasets have been used during the exepriments:
 
 ## Python Scripts
 
-- **samplers.py**: This script contains code for various graph sampling algorithms, both established and new ones proposed in this project.
+- **samplers.py**: This script contains code for various graph sampling algorithms, both established and new ones proposed in this project. Code for MCGS is taken from [link](https://github.com/csuvis/MCGS).
 - **metrics.py**: This script contains functions for calculating metrics used for the quantitative analysis of the graphs.
 - **utils.py**: This script contains utility classes and functions used for calculations and other support functions in the project.
